@@ -13,8 +13,16 @@
             "description": "Hamburguer",
             "type": "outcome",
             "category": "Food",
-            "price": 50,
+            "price": 60,
             "createdAt": "2024-03-19T23:40:29.564Z"
+        },
+        {
+            "id": 3,
+            "description": "Rocket Seat",
+            "type": "outcome",
+            "category": "Education",
+            "price": 1980,
+            "createdAt": "2024-03-19T23:24:29.564Z"
         }
     ]
 }
