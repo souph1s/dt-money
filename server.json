@@ -1,28 +1,52 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Site Development",
-            "type": "income",
-            "category": "sell",
-            "price": 14000,
-            "createdAt": "2024-03-19T23:04:29.564Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Food",
-            "price": 60,
-            "createdAt": "2024-03-19T23:40:29.564Z"
-        },
-        {
-            "id": 3,
-            "description": "Rocket Seat",
-            "type": "outcome",
-            "category": "Education",
-            "price": 1980,
-            "createdAt": "2024-03-19T23:24:29.564Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Site Development",
+      "type": "income",
+      "category": "sell",
+      "price": 14000,
+      "createdAt": "2024-03-19T23:04:29.564Z"
+    },
+    {
+      "id": "2",
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Food",
+      "price": 60,
+      "createdAt": "2024-03-19T23:40:29.564Z"
+    },
+    {
+      "id": "3",
+      "description": "Rocket Seat",
+      "type": "outcome",
+      "category": "Education",
+      "price": 1980,
+      "createdAt": "2024-03-19T23:24:29.564Z"
+    },
+    {
+      "id": "cd4f",
+      "description": "Desenvolvimento de app",
+      "type": "income",
+      "category": "Venda",
+      "price": 10000,
+      "createdAt": "2024-04-03T02:29:45.631Z"
+    },
+    {
+      "id": "fbb6",
+      "description": "frozen yogurt",
+      "type": "outcome",
+      "category": "food",
+      "price": 4,
+      "createdAt": "2024-04-03T03:07:34.391Z"
+    },
+    {
+      "id": "4579",
+      "description": "site development",
+      "type": "income",
+      "category": "sell",
+      "price": 1000,
+      "createdAt": "2024-04-03T03:07:47.964Z"
+    }
+  ]
 }
