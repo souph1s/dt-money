@@ -47,22 +47,6 @@
       "category": "sell",
       "price": 1000,
       "createdAt": "2024-04-03T03:07:47.964Z"
-    },
-    {
-      "id": "a6cb",
-      "description": "site",
-      "type": "outcome",
-      "category": "1",
-      "price": 123,
-      "createdAt": "2024-04-08T00:56:20.621Z"
-    },
-    {
-      "id": "f205",
-      "description": "dev",
-      "type": "income",
-      "category": "sei la",
-      "price": 12,
-      "createdAt": "2024-04-08T00:56:30.053Z"
     }
   ]
 }
